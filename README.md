@@ -1,24 +1,7 @@
 <foreignObject width="100%" height="100%">
 <div xmlns="http://www.w3.org/1999/xhtml">
 
-<style>
-   @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Raleway:wght@700&display=swap');
 
-   *{
-      font-family: 'Open Sans', sans-serif;
-      font-family: 'Raleway', sans-serif;
-   }
-
- ul {
-    list-style:none;
- }
-
-.welcome{
-   color: #85B7E2;
-}
-
-
-</style>
 
 <h1 class="welcome">Welcome to my Profile</h1>
 

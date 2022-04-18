@@ -1,5 +1,5 @@
 <foreignObject width="100%" height="100%">
-
+<div xmlns="http://www.w3.org/1999/xhtml">
 
 <style>
    @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Raleway:wght@700&display=swap');
@@ -61,4 +61,5 @@ Over the course of the two-year programme, I earned a solid foundation in inform
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
+</div>
 </foreignObject>

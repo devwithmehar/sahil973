@@ -3,10 +3,10 @@
 
 
 
-<h1 class="welcome">Welcome to my Profile</h1>
+## Welcome to my Profile
 
 <p  align="left">
-Hey, Sahil Mehar is my name. I'm a software developer that is always eager to pick up new skills. <br>
+Hey, My name is Sahil Mehar. I'm a software developer that is always eager to pick up new skills. <br>
 I'm now leaning towards AWS, where I've previously utilised Cognito for authorization, an S3 bucket for storage, and a slew of other services. <br>
 I received my bachelor's degree in Business Information Technologies in December 2021, during which time I worked on a variety of projects in : <br>
  <ul>

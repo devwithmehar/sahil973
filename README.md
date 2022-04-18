@@ -8,6 +8,9 @@ In December 2021,I earned my bachelor's degree in Business Information Technolog
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sahil-mehar-035040193/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sahil-mehar-035040193/)
 
+
+---
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />

@@ -5,8 +5,8 @@ In December 2021,I earned my bachelor's degree in Business Information Technolog
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sahil-mehar-035040193/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sahil-mehar-035040193/)
+[![website](./img/linkedin.svg)](https://www.linkedin.com/in/sahil-mehar-035040193/)
+
 
 
 ---

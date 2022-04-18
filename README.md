@@ -1,7 +1,7 @@
 # Welcome to my Profile
-
-Hey, My name is Sahil Mehar. I am a software developer and always excited to learn new technology. Right now I am leaning AWS where I have already used Cognito for the authorization, S3 bucket for storage and many more services.
-In December 2021,I earned my bachelor's degree in Business Information Technologies, where I worked on numerous projects in C#, PHP, and Ruby. I gained a good foundation in information technology over the two-year curriculum, with a concentration on application development, web development, and web security. This curriculum also provides practical, applied training through an industry project.
+<p align="center">
+Hey, Sahil Mehar is my name. I'm a software developer that is always eager to pick up new skills. I'm now leaning towards AWS, where I've previously utilised Cognito for authorization, an S3 bucket for storage, and a slew of other services. I received my bachelor's degree in Business Information Technologies in December 2021, during which time I worked on a variety of projects in C#, PHP, and Ruby. Over the course of the two-year programme, I earned a solid foundation in information technology, with a focus on application development, web development, and web security. Through an industry project, this programme also delivers practical, applied training.
+</p>
 
 ---
 
